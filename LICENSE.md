@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with secure isolated-margin trading bot Addon | backtesting + take-profit, the #1 isolated-margin trading bot. Includes backtesting and take-profit for a
 
 
 
